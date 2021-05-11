@@ -1,0 +1,9 @@
+body {background: #BE96FF}
+caption {font-family: Verdana; font-size: 20px}
+table {background: #FFFDBC}
+table, td {border-collapse: collapse;}
+table, td, th {border:1px solid black;}
+td, th {padding: 5px;}
+thead {color: navy;}
+tbody {color: #0000FF;}
+tfoot {color: black;}
